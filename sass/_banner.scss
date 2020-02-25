@@ -3,14 +3,14 @@
     height: 900px;
     position: relative;
     z-index: 1;
-    // @include background("../img/banner_bg.png");
+    // @include background("https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/banner_bg.png");
     background-color: $section_bg;
     &:after{
         position: absolute;
         content: "";
         left: 0;
         bottom: 0;
-        background: url('../img/banner_overlay_2.png') top right no-repeat;
+        background: url('https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/banner_overlay_2.png') top right no-repeat;
         width: 100%;
         height: 100%;
         z-index: -1;
@@ -32,7 +32,7 @@
         content: "";
         left: 0;
         bottom: 0;
-        background: url('../img/banner_overlay_1.png') bottom left no-repeat;
+        background: url('https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/banner_overlay_1.png') bottom left no-repeat;
         width: 100%;
         height: 100%;
         z-index: -1;

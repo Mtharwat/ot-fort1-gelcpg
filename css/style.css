@@ -2761,7 +2761,7 @@ ul {
   content: "";
   left: 0;
   bottom: 0;
-  background: url("../img/banner_overlay_2.png") top right no-repeat;
+  background: url("https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/banner_overlay_2.png") top right no-repeat;
   width: 100%;
   height: 100%;
   z-index: -1;
@@ -2801,7 +2801,7 @@ ul {
   content: "";
   left: 0;
   bottom: 0;
-  background: url("../img/banner_overlay_1.png") bottom left no-repeat;
+  background: url("https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/banner_overlay_1.png") bottom left no-repeat;
   width: 100%;
   height: 100%;
   z-index: -1;
@@ -3258,7 +3258,7 @@ ul {
 
 /* line 43, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
 .about_part .about_img {
-  background-image: url(../img/about_overlay.png);
+  background-image: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/about_overlay.png);
   background-repeat: no-repeat;
   background-position: left;
   position: relative;
@@ -3270,7 +3270,7 @@ ul {
   /* line 43, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
   .about_part .about_img {
     height: 500px;
-    background-image: url(../img/about_img_1.png);
+    background-image: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/about_img_1.png);
     background-size: cover;
   }
 }
@@ -3279,7 +3279,7 @@ ul {
   /* line 43, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
   .about_part .about_img {
     height: 500px;
-    background-image: url(../img/about_img_1.png);
+    background-image: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/about_img_1.png);
     background-size: cover;
   }
 }
@@ -3288,7 +3288,7 @@ ul {
   /* line 43, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
   .about_part .about_img {
     height: 500px;
-    background-image: url(../img/about_img_1.png);
+    background-image: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/about_img_1.png);
     background-size: cover;
   }
 }
@@ -3614,7 +3614,7 @@ ul {
 
 /* line 262, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_about.scss */
 .our_service_part {
-  background-image: url(../img/service_bg_2.png);
+  background-image: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/service_bg_2.png);
   background-repeat: no-repeat;
   background-position: left;
   background-size: 25% 77%;
@@ -4580,7 +4580,7 @@ ul {
 
 /* line 224, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_review.scss */
 .review_part .intro_video_bg {
-  background-image: url("../img/intro_bg.png");
+  background-image: url("https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/intro_bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7315,7 +7315,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 798, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_elements.scss */
 .primary-checkbox input:checked + label {
-  background: url(../img/elements/primary-check.png) no-repeat center center/cover;
+  background: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/elements/primary-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -7357,7 +7357,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 835, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_elements.scss */
 .confirm-checkbox input:checked + label {
-  background: url(../img/elements/success-check.png) no-repeat center center/cover;
+  background: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/elements/success-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -7405,7 +7405,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 876, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_elements.scss */
 .disabled-checkbox input:checked + label {
-  background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
+  background: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/elements/disabled-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -7447,7 +7447,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 913, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_elements.scss */
 .primary-radio input:checked + label {
-  background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
+  background: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/elements/primary-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -7489,7 +7489,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 950, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_elements.scss */
 .confirm-radio input:checked + label {
-  background: url(../img/elements/success-radio.png) no-repeat center center/cover;
+  background: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/elements/success-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -7537,7 +7537,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 991, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_elements.scss */
 .disabled-radio input:checked + label {
-  background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
+  background: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/elements/disabled-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -7693,7 +7693,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../img/breadcrumb.png");
+  background-image: url("https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/breadcrumb.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

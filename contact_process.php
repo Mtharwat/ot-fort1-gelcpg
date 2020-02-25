@@ -15,7 +15,7 @@
 
     $subject = "You have a message from your Bitmap Photography.";
 
-    $logo = 'img/logo.png';
+    $logo = 'https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/logo.png';
     $link = '#';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";

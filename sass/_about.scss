@@ -41,7 +41,7 @@
         padding: 100px 0 0;
     }
     .about_img{
-        background-image: url(../img/about_overlay.png);
+        background-image: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/about_overlay.png);
         background-repeat: no-repeat;
         background-position: left;
         position: relative;
@@ -49,17 +49,17 @@
         height: 549px;
         @media #{$small_mobile}{
             height: 500px;
-            background-image: url(../img/about_img_1.png);
+            background-image: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/about_img_1.png);
             background-size: cover;
         }
         @media #{$large_mobile}{
             height: 500px;
-            background-image: url(../img/about_img_1.png);
+            background-image: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/about_img_1.png);
             background-size: cover;
         }
         @media #{$tab_device}{
             height: 500px;
-            background-image: url(../img/about_img_1.png);
+            background-image: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/about_img_1.png);
             background-size: cover;
         }
         @media #{$medium_device}{
@@ -260,7 +260,7 @@
     }
 }
 .our_service_part{
-    background-image: url(../img/service_bg_2.png);
+    background-image: url(https://raw.githubusercontent.com/Mtharwat/ot-fort1-gelcpg/master/img/service_bg_2.png);
     background-repeat: no-repeat;
     background-position: left ;
     background-size: 25% 77%;
